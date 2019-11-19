@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import history from './routes/history'
+import 'element-theme-default';
 
 import * as serviceWorker from './serviceWorker';
 

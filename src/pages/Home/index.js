@@ -1,5 +1,8 @@
 import React from 'react'
+import { DatePicker } from 'antd';
 
 export default () => (
-    <div>主页</div>
+    <div>
+    <DatePicker />
+    </div>
 )
